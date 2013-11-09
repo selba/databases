@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="DataBases">
+</Property><Property Name="Solution File" Value="Z:\Projectes\Macsa\Databases40\DataBases\DataBases.sln">
+</Property><Property Name="User Options File" Value="Z:\Projectes\Macsa\Databases40\DataBases\DataBases.suo">
+</Property><Property Name="Date" Value="miércoles, 24 de julio de 2013">
+</Property><Property Name="Time" Value="17:22">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="DataBases.sln" Description="File successfully backed up as Z:\Projectes\Macsa\Databases40\DataBases\Backup1\DataBases.sln">
+</Event><Event ErrorLevel="0" Project="" Source="DataBases.suo" Description="File successfully backed up as Z:\Projectes\Macsa\Databases40\DataBases\Backup1\DataBases.suo">
+</Event><Event ErrorLevel="0" Project="DataBases" Source="DataBases.vbproj" Description="Project file successfully backed up as Z:\Projectes\Macsa\Databases40\DataBases\Backup1\DataBases.vbproj">
+</Event><Event ErrorLevel="0" Project="DataBases" Source="DataBases.vbproj.user" Description="Project user file successfully backed up as Z:\Projectes\Macsa\Databases40\DataBases\Backup1\DataBases.vbproj.user">
+</Event><Event ErrorLevel="0" Project="DataBases" Source="dbmsOracle.vb" Description="File successfully backed up as Z:\Projectes\Macsa\Databases40\DataBases\Backup1\dbmsOracle.vb">
+</Event><Event ErrorLevel="0" Project="DataBases" Source="dbmsSybase.vb" Description="File successfully backed up as Z:\Projectes\Macsa\Databases40\DataBases\Backup1\dbmsSybase.vb">
+</Event><Event ErrorLevel="0" Project="DataBases" Source="Comu1.vb" Description="File successfully backed up as Z:\Projectes\Macsa\Databases40\DataBases\Backup1\Comu1.vb">
+</Event><Event ErrorLevel="0" Project="DataBases" Source="dbmsSqlServer.vb" Description="File successfully backed up as Z:\Projectes\Macsa\Databases40\DataBases\Backup1\dbmsSqlServer.vb">
+</Event><Event ErrorLevel="0" Project="DataBases" Source="dbms.vb" Description="File successfully backed up as Z:\Projectes\Macsa\Databases40\DataBases\Backup1\dbms.vb">
+</Event><Event ErrorLevel="0" Project="DataBases" Source="My Project\AssemblyInfo.vb" Description="File successfully backed up as Z:\Projectes\Macsa\Databases40\DataBases\Backup1\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="DataBases" Source="My Project\Application.Designer.vb" Description="File successfully backed up as Z:\Projectes\Macsa\Databases40\DataBases\Backup1\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="DataBases" Source="My Project\Resources.Designer.vb" Description="File successfully backed up as Z:\Projectes\Macsa\Databases40\DataBases\Backup1\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="DataBases" Source="My Project\Settings.Designer.vb" Description="File successfully backed up as Z:\Projectes\Macsa\Databases40\DataBases\Backup1\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="DataBases" Source="My Project\Application.myapp" Description="File successfully backed up as Z:\Projectes\Macsa\Databases40\DataBases\Backup1\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="DataBases" Source="My Project\Settings.settings" Description="File successfully backed up as Z:\Projectes\Macsa\Databases40\DataBases\Backup1\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="DataBases" Source="My Project\Resources.resx" Description="File successfully backed up as Z:\Projectes\Macsa\Databases40\DataBases\Backup1\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="DataBases" Source="DataBases.vbproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="DataBases" Source="DataBases.vbproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="DataBases.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="DataBases.sln" Description="Converted">
+</Event></UpgradeLog>

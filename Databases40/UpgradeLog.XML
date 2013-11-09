@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="DataBases">
+</Property><Property Name="Archivo de la solución" Value="D:\Projectes\Macsa\DataBases\DataBases.sln">
+</Property><Property Name="Archivo de opciones de usuario" Value="D:\Projectes\Macsa\DataBases\DataBases.suo">
+</Property><Property Name="Date" Value="viernes, 12 de febrero de 2010">
+</Property><Property Name="Time" Value="16:03">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="DataBases.sln" Description="La copia D:\Projectes\Macsa\DataBases\Backup\DataBases.sln del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="" Source="DataBases.suo" Description="La copia D:\Projectes\Macsa\DataBases\Backup\DataBases.suo del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="DataBases" Source="DataBases.vbproj" Description="Se realizó correctamente la copia de seguridad del archivo de proyecto D:\Projectes\Macsa\DataBases\Backup\DataBases.vbproj">
+</Event><Event ErrorLevel="0" Project="DataBases" Source="dbmsSybase.vb" Description="Se realizó correctamente la copia de seguridad del archivo D:\Projectes\Macsa\DataBases\Backup\dbmsSybase.vb">
+</Event><Event ErrorLevel="0" Project="DataBases" Source="Comu1.vb" Description="Se realizó correctamente la copia de seguridad del archivo D:\Projectes\Macsa\DataBases\Backup\Comu1.vb">
+</Event><Event ErrorLevel="0" Project="DataBases" Source="dbmsSqlServer.vb" Description="Se realizó correctamente la copia de seguridad del archivo D:\Projectes\Macsa\DataBases\Backup\dbmsSqlServer.vb">
+</Event><Event ErrorLevel="0" Project="DataBases" Source="dbms.vb" Description="Se realizó correctamente la copia de seguridad del archivo D:\Projectes\Macsa\DataBases\Backup\dbms.vb">
+</Event><Event ErrorLevel="0" Project="DataBases" Source="My Project\AssemblyInfo.vb" Description="Se realizó correctamente la copia de seguridad del archivo D:\Projectes\Macsa\DataBases\Backup\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="DataBases" Source="My Project\Application.Designer.vb" Description="Se realizó correctamente la copia de seguridad del archivo D:\Projectes\Macsa\DataBases\Backup\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="DataBases" Source="My Project\Resources.Designer.vb" Description="Se realizó correctamente la copia de seguridad del archivo D:\Projectes\Macsa\DataBases\Backup\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="DataBases" Source="My Project\Settings.Designer.vb" Description="Se realizó correctamente la copia de seguridad del archivo D:\Projectes\Macsa\DataBases\Backup\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="DataBases" Source="My Project\Application.myapp" Description="Se realizó correctamente la copia de seguridad del archivo D:\Projectes\Macsa\DataBases\Backup\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="DataBases" Source="My Project\Settings.settings" Description="Se realizó correctamente la copia de seguridad del archivo D:\Projectes\Macsa\DataBases\Backup\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="DataBases" Source="My Project\Resources.resx" Description="Se realizó correctamente la copia de seguridad del archivo D:\Projectes\Macsa\DataBases\Backup\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="DataBases" Source="DataBases.vbproj" Description="El archivo de proyecto no requiere conversión.">
+</Event><Event ErrorLevel="3" Project="DataBases" Source="DataBases.vbproj" Description="No requiere conversión">
+</Event><Event ErrorLevel="0" Project="" Source="DataBases.sln" Description="La solución se convirtió correctamente">
+</Event><Event ErrorLevel="3" Project="" Source="DataBases.sln" Description="Converted">
+</Event></UpgradeLog>
